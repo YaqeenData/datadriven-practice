@@ -1,6 +1,6 @@
-# bright_wave_3590's data engineering practice
+# yaqeen01data's data engineering practice
 
-Scored work from [DataDriven](https://datadriven.io/u/bright_wave_3590), committed here as it is scored. Each folder holds the code exactly as submitted and the report it earned.
+Scored work from [DataDriven](https://datadriven.io/u/yaqeen01data), committed here as it is scored. Each folder holds the work exactly as submitted and the report it earned.
 
 <!-- datadriven:index:start -->
 
@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/bright_wave_3590), committ
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Customers Without Orders](./practice/sql/customers-without-orders) | SQL | Medium | 2026-10-18 |
 | [Ad Clickers](./practice/sql/ad-clickers) | SQL | Easy | 2026-10-07 |
 
 <!-- datadriven:index:end -->
