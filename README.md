@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/yaqeen01data), committed h
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [March Revenue by Customer](./practice/sql/march-revenue-by-customer) | SQL | Medium | 2026-10-20 |
 | [Customers Without Orders](./practice/sql/customers-without-orders) | SQL | Medium | 2026-10-18 |
 | [Ad Clickers](./practice/sql/ad-clickers) | SQL | Easy | 2026-10-07 |
 
